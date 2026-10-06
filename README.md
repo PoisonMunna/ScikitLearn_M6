@@ -1,4 +1,4 @@
-
+  
 # 📘 Module 6: Clustering — Learning Notes
 
 > **Goal**: Group similar data points without labels using unsupervised clustering algorithms, understand when to use each method, and learn how to evaluate cluster quality.
